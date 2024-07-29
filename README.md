@@ -9,33 +9,34 @@
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-📕Clique aqui para ler o artigo
+<a href="https://github.com/SinesioDev/Artigos-T-cnicos-com-ChatGPT-e-Lexica.art/blob/main/Artigo_Malef%C3%ADcios%20dos%20Jogos%20Eletronicos" title="View PDF now">
+📕Clique aqui para ler o artigo</a>
 
-💻 Tecnologias utilizadas no projeto
+##💻 Tecnologias utilizadas no projeto
 
-ChatGPT - para título e conteúdo
+- [ChatGPT](https://chat.openai.com/) - para título e conteúdo
+- [Lexica.art](https://lexica.art/) - para gerar imagens
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Para formatação de banners e Layouts
 
-Lexica.art - para gerar imagens
-
-PowerPoint - Para formatação de banners e Layouts
-
-📄 Prompts e ferramentas
+##📄 Prompts e ferramentas
 
 ChatGPT：
 
-Ação	prompt
-título	Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas
-conteúdo	Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico
+prompt.
+
+conteúdo: Crie um artigo relacionado ao vicio em jogos eletrônicos,cite os maiores malefícios dos jogos. 
 
 Lexica.art：
 
 No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 • Angular
 
-✨ Features
+## ✨ Features
 Conteúdo gerado via ChatGPT
 Imagens do acervo público geradas via Lexica.art
-📚 Materiais
+
+## 📚 Materiais
 prompts utilizados
-🛠️ Instruções de execução
+
+## 🛠️ Instruções de execução
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da DIO.
