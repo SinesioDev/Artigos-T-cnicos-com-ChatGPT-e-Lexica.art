@@ -1,5 +1,12 @@
 # Artigos-Tecnicos-com-ChatGPT-e-Lexica.art
 
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/SinesioDev/Artigos-T-cnicos-com-ChatGPT-e-Lexica.art/main/Capa.jfif"
+    width="400"  
+  />
+</p>
+
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
 📕Clique aqui para ler o artigo
